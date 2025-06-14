@@ -1,0 +1,114 @@
+#all{
+    
+    border: 2px solid lightyellow;
+    filter: drop-shadow(0px 0px 7px lightyellow);
+    border-radius: 10px;
+    padding: 50px;
+    background: transparent;
+    backdrop-filter: blur(3px);
+    height: 317px;
+    width: 309px;
+    text-align: center;
+    position: relative;
+    top: 137px;
+    left: 343px;
+    scale: 1.2;
+    
+    
+    
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(jason.jpeg);   
+    background-size: cover;     /* Scale the image to cover the entire screen */
+   /* Center the image */
+  
+    
+    
+}
+h1{
+    font-family: "Audiowide", sans-serif;
+    color: lightyellow;
+    position: relative;
+    top: -20px;
+    font-size:xx-large;
+}
+.user input{
+    height: 54px;
+    width: 318px;
+    border-radius: 30px;
+    background: transparent;
+    border-color: lightyellow;
+    margin-bottom: 20px;
+    color: lightyellow;
+    font-family: "Audiowide", sans-serif;
+}
+
+
+.password input{
+    height: 54px;
+    width: 318px;
+    border-radius: 30px;
+    background: transparent;
+    border-color: lightyellow;
+    margin-bottom: 10px;
+    font-family: "Audiowide", sans-serif;
+}
+button{
+    height: 54px;
+    width: 318px;
+    border-radius: 30px;
+    font-family: "Audiowide", sans-serif;
+    font-weight: bolder;
+    position: relative;
+    top: 15px;
+}
+.rem{
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    margin-bottom: 10px;
+    position: relative;
+    left: -44px;
+    text-align: left;
+}
+.rem input{
+    position: relative;
+    left: -5px;
+    border-radius: 5px;
+}
+span{
+    font-family: "Audiowide", sans-serif;
+    color: lightyellow;
+    font-size: small;
+    text-align: left;
+    position: relative;
+    left: -7px;
+    top: -1px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    font-size: small;
+    margin-right: 20px;
+    text-align: right;
+    position: relative;
+    left: 44px;
+}
+#reg{
+    color: lightyellow;
+    position: relative;
+    left: 3px;
+
+}
+.dont{
+    color: lightyellow;
+    position: relative;
+    top: 24px;
+    left: 6px;
+    font-family: "Audiowide", sans-serif;
+    font-size: small;
+}
