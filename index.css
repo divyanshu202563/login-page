@@ -112,3 +112,10 @@ a{
     font-family: "Audiowide", sans-serif;
     font-size: small;
 }
+
+.skip{
+    position: absolute;
+    top: 18px;
+    left: 298px;
+}
+
