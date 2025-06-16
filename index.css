@@ -81,6 +81,12 @@ a {
     color: lightyellow;
 }
 
+
+#skip{
+    text-align:right;
+}
+
+
 /* 🔁 Responsive tweaks */
 @media (max-width: 600px) {
     #all {
